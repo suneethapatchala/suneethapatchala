@@ -2,6 +2,18 @@
 <h1 align="center">Hi 👋, I'm Suneetha Patchala</h1>
 <h3 align="center">I am a 2017 MCA Graduate from St Ann's college  Guntur (India) . I  am currently pursuing datascience bootcamp from Jovian which has equiped me with  skills to transition into Data Science. I am open to opportunities which will help me grow as a data science professional. I am very passionate about Data Science.
 
+
+
+Projects in Data Analytics:
+
+SQL querying with Chinook Database
+
+Data Analysis and Dashboarding using Tableau
+
+Web Scraping for top movies on IMDB
+
+Exploratory Data Analysis and Visualization of Electric Vehicle and Population Data
+
   
   
   Skills:Web Scraping, SQL, MS Excel, MS PowerPoint, Tableau, Power BI, Python, Matplotlib, Seaborn, Pandas, NumPy.

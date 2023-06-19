@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Suneetha Patchala</h1>
-<h3 align="center">I am a 2017 MCA Graduate from St Ann's Guntur (India) . I am currently pursuing datascience bootcamp from Jovian which has equiped me with  skills to transition into Data Science. I am open to opportunities which will help me grow as a data science professional. Iam very passionate about Data Science.
+<h3 align="center">I am a 2017 MCA Graduate from St Ann's college  Guntur (India) . I am currently pursuing datascience bootcamp from Jovian which has equiped me with  skills to transition into Data Science. I am open to opportunities which will help me grow as a data science professional. Iam very passionate about Data Science.
 
   
   
